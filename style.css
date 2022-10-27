@@ -7,6 +7,10 @@
   font-size: 16px;
 }
 
+.bold {
+  font-weight: 600;
+}
+
 .pink {
   color: #d07ea7;
 }
@@ -37,22 +41,54 @@
   font-weight: 50px;
 }
 
-.herotext {
-  text-align: center;
-}
-
 .contact {
   border: none;
   background-color: #d07ea7;
   color: #fff;
   border-radius: 2px;
   padding: 12px 50px;
-  margin-left: 470px;
 }
 
-.heroimage {
-  margin-top: 5rem;
-  margin-left: 150px;
+.stars {
+  width: 100px;
+}
+
+.review {
+  justify-content: center;
+  margin-top: 50px;
+}
+
+.read2 {
+  margin-left: 20px;
+}
+
+.gallery {
+  margin-top: 20px;
+}
+
+.picture {
+  width: 18.75rem;
+  height: 300px;
+}
+
+.address {
+  font-size: 20px;
+  margin-left: 200px;
+  margin-top: 70px;
+}
+
+.get {
+  margin-left: 200px;
+}
+
+.text {
+  margin-left: 200px;
+  margin-top: 20px;
+  margin-bottom: 70px;
+}
+
+.footerline {
+  border: 1px solid grey;
   margin-bottom: 20px;
 }
 /*# sourceMappingURL=style.css.map */
