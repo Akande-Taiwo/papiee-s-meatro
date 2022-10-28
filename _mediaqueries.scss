@@ -1,2 +1,12 @@
-$desktop: nest hub max 1280 - 800
-$desktop: nest hub 
+@media screen and (max-width: 767px) {
+  // this one goes from 0 to 767px
+}
+
+// OR
+
+@media screen and (min-width: 767px) {
+  // This one goes from 767px to infinity
+  .picture{
+    width: 18rem !important;
+}
+}

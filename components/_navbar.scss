@@ -3,8 +3,8 @@
     border: none;
     background-color:  #d07ea7;
     color: #fff;
-    border-radius: 2px;
-    padding: 12px 50px;
+    border-radius: .1rem;
+    padding: .75rem 3rem;
     // margin-left: 470px;
 }
 // .heroimage{
@@ -13,35 +13,32 @@
 //     margin-bottom: 20px;
 // }
 .stars{
-    width: 100px;
+    width: 6rem;
 }
 .review{
     justify-content: center;
-    margin-top: 50px;
+    margin-top: 3rem;
 }
 .read2{
-margin-left: 20px;
+margin-left: 1.2rem;
 }
 .gallery{
-    margin-top: 20px;
+    margin-top: 1.2rem;
 }
-.picture{
-    width:18.75rem;
-    height: 300px;
-}
-.address{
-    font-size: 20px;
-    margin-left: 200px;
-    margin-top: 70px;
-}
-// .pic{
-
+// .picture{
+//     // width:18rem;
 // }
+.address{
+    font-size: 1.2rem;
+    margin-left: 12.5rem;
+    margin-top: 4.3rem;
+}
+
 .get{
-    margin-left: 200px;
+    margin-left: 12.5rem;
 }
 .text{
-    margin-left: 200px;
-    margin-top: 20px;
-    margin-bottom: 70px;
+    margin-left: 12.5rem;
+    margin-top: 1.2rem;
+    margin-bottom: 4.3rem;
 }
